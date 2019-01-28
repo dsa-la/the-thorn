@@ -1,5 +1,5 @@
 title: The Thorn
-description: The Thorn is a weekly news roundup of local politics by the NYC DSA.
+description: The Thorn is a weekly news roundup of local politics by DSA Los Angeles.
 url: https://www.thethorn.nyc
 
 source: src
@@ -13,4 +13,4 @@ defaults:
     values:
       layout: "post"
 
-twitter: nycthorn
+twitter: DSA_LosAngeles
