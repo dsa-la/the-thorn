@@ -10,11 +10,11 @@
   display: flex;
   align-items: center;
   .dsa-logo {
-    background-image: url('/images/nyc-dsa-logo_lg_2x.png');
+    background-image: url('/images/DSA-fingerslogo-red-circle.png');
     @include image-size(125px, 125px);
     margin: 0;
     @include viewport(md) {
-      background-image: url('/images/nyc-dsa-logo_sm_2x.png');
+      background-image: url('/images/DSA-fingerslogo-red-circle.png');
       @include image-size(65px, 65px);
     }
   }
